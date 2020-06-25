@@ -1,2 +1,2 @@
-TS ID:items.id
+TS ID: items.id
 Event source timestamp: items.t
