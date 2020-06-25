@@ -1,0 +1,36 @@
+{
+    "data": {
+        "items": [
+            {
+                "id": "",
+                "datapoints": [
+                    {
+                        "time": "",
+                        "value" : 0,
+                        "status" : 0
+                    },
+                    {
+                        "time": "",
+                        "value" : 0,
+                        "status" : 1
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "datapoints": [
+                    {
+                        "time": "",
+                        "value" : 0,
+                        "status" : 0
+                    },
+                    {
+                        "time": "",
+                        "value" : 0,
+                        "status" : 1
+                    }
+                ]
+            }
+        ]
+    }
+}

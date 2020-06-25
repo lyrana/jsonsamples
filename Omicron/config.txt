@@ -1,0 +1,2 @@
+TS ID: data.items.id
+Event source timestamp: data.items.datapoints.time

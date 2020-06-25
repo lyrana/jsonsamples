@@ -1,0 +1,54 @@
+{
+    "data": {
+        "items": [
+            {
+                "id": "",
+                "datapoints": [
+                    {
+                        "time": "",
+                        "value" : 0,
+                        "status" : 0
+                    },
+                    {
+                        "time": "",
+                        "value" : 0,
+                        "status" : 1
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "datapoints": [
+                    {
+                        "time": "",
+                        "value" : 0,
+                        "status" : 0
+                    },
+                    {
+                        "time": "",
+                        "value" : 0,
+                        "status" : 1
+                    }
+                ]
+            }
+        ]
+    },
+    "testvaluetest" : 0,
+    "value.foo's": 0,
+    "nest":{
+        "all":
+        {
+            "ofthething'snfdkodsl[][][]specialcharsgohere'andhere\\andhere.value" : ""
+        }
+    },
+    "more": {
+        "nested" : [
+        {
+            "thiswontgetarandomvaluebcitsinanarraybutthatsokay": "foobar"
+        },
+        {
+            "thiswontgetarandomvaluebcitsinanarraybutthatsokay": 0
+        }
+    ]
+    }
+}

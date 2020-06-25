@@ -1,0 +1,26 @@
+{
+	"sampleRate": 0.001,
+	"items": [{
+			"id": "",
+			"t": "",
+			"series": {
+                "value": 0,
+				"standardizedvalue": 0,
+				"isQuestionable": 0,
+				"aggregateData": [5.99923229, 5.877294, 4.8977729]
+			}
+		},
+		{
+			"id": "",
+			"t": "",
+			"series": {
+                "value": 0,
+                "standardizedvalue": 0,
+                "isQuestionable": 0,
+				"aggregateData": [7.99923229, 9.877294, 3.8977729]
+			}
+		}
+
+	]
+
+}

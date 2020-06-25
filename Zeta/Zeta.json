@@ -1,0 +1,22 @@
+{
+        "id": "9336971",
+        "timestamp": "",
+        "series": [
+            {
+                "tagId": "",
+                "value": 0
+            },
+            {
+                "tagId": "lat",
+                "value": 0
+            },
+            {
+                "tagId": "heading",
+                "value": 0
+            },
+            {
+                "tagId": "me_torque",
+                "value": 420
+            }
+        ]
+}
