@@ -3,19 +3,19 @@
         "timestamp": "",
         "series": [
             {
-                "tagId": "",
+                "id": "",
                 "value": 0
             },
             {
-                "tagId": "lat",
+                "id": "lat",
                 "value": 0
             },
             {
-                "tagId": "heading",
+                "id": "heading",
                 "value": 0
             },
             {
-                "tagId": "me_torque",
+                "id": "me_torque",
                 "value": 420
             }
         ]

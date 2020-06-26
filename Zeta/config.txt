@@ -1,2 +1,2 @@
-Composit TS ID: id, series.tagId
+Composit TS ID: id, series.id
 Event source timestamp: timestamp
