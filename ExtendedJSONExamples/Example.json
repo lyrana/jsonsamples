@@ -1,54 +1,39 @@
 {
-    "data": {
-        "items": [
-            {
-                "id": "",
-                "datapoints": [
-                    {
-                        "time": "",
-                        "value" : 0,
-                        "status" : 0
-                    },
-                    {
-                        "time": "",
-                        "value" : 0,
-                        "status" : 1
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "datapoints": [
-                    {
-                        "time": "",
-                        "value" : 0,
-                        "status" : 0
-                    },
-                    {
-                        "time": "",
-                        "value" : 0,
-                        "status" : 1
-                    }
-                ]
-            }
-        ]
-    },
-    "testvaluetest" : 0,
-    "value.foo's": 0,
-    "nest":{
-        "all":
-        {
-            "ofthething'snfdkodsl[][][]specialcharsgohere'andhere\\andhere.value" : ""
-        }
-    },
-    "more": {
-        "nested" : [
-        {
-            "thiswontgetarandomvaluebcitsinanarraybutthatsokay": "foobar"
-        },
-        {
-            "thiswontgetarandomvaluebcitsinanarraybutthatsokay": 0
-        }
-    ]
-    }
+	"sampleRate": 0.001,
+	"items": [
+		{
+			"id": "",
+			"t": "",
+			"series": {
+                "value": 0,
+				"standardizedvalue": 0,
+				"isQuestionable": 0,
+				"aggregateData": [5.99923229, 5.877294, 4.8977729]
+			},
+			"funkyNewValuewhatis'dis" : 0,
+			"nestingthings" : {
+				"let'stestourescaping\\special.chars.value": 1
+
+			}
+		},
+		{
+			"id": "",
+			"t": "",
+			"series": {
+                "value": 0,
+                "standardizedvalue": 0,
+                "isQuestionable": 0,
+				"aggregateData": [7.99923229, 9.877294, 3.8977729]
+			},
+			"i.shouldbe.a.n_dynamic!" : [155,145,199],
+			"nest":{
+				"all":{
+					"the":{
+						"things.value": 2
+					}
+				}
+			}
+		}
+
+	]
 }
